@@ -9,6 +9,8 @@ navbar:
       href: Journal.html
     - text: "Links"
       href: Links.html
+    - text: "CV"
+      href: CV.html
     - text: "Blog"
       href: https://jamescarzon.github.io/my_blog/
 output:

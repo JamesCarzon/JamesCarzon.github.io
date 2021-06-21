@@ -10,8 +10,14 @@ output:
     #code_folding: hide
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
-
 This is my research journal sort of thing.
+
+# Section 1
+
+Text here.
+
+## Subsection 1.1.
+
+Text here.
+
+# Section 2
