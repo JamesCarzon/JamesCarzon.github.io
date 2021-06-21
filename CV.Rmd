@@ -1,8 +1,10 @@
 ---
 title: "Curriculum Vitae"
-
+description: "Last updated 21 June 2021."
 output: html_document
 ---
+
+<a href="jamescarzon.github.io/docs/CV_211220.pdf" target="_blank">Download.</a>
 
 # Education
 
