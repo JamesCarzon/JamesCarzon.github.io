@@ -4,8 +4,6 @@ description: "Last updated 21 June 2021."
 output: html_document
 ---
 
-<a href="jamescarzon.github.io/docs/CV_211220.pdf" target="_blank">Download.</a>
-
 # Education
 
 ## Carnegie Mellon University [2021-Present.]{style="float:right"}
@@ -117,6 +115,7 @@ output: html_document
 1. "Entering a Transportation Hub," *University of Michigan - Dearborn Writing Awards,* Fall 2017.
 2. "Ugbert Ugberto the Utility Monster," *Lyceum Literary & Fine Arts Journal,* Fall 2020 (accepted).
 &nbsp;  
+&nbsp;  
 
 # Projects
 
@@ -170,6 +169,7 @@ output: html_document
 - Contributor. *The Michigan Journal* [2018.]{style="float:right"}
 - Writing Tutor. *Writing Center* [2018-2019.]{style="float:right"}
 - Calculus II Mentor. *Department of Mathematics and Statistics* [2017-2018.]{style="float:right"}
+&nbsp;  
 &nbsp;  
 
 # Service
@@ -256,6 +256,7 @@ output: html_document
   - 2019 Michigan Autumn Takehome Challenge, 4th Place.
   - 2019 Lower Michigan Math Competition, 3rd Place.
   - 2018 Wiiliam Lowell Putnam Mathematical Competition, 10 Points.
+&nbsp;  
 
 ## Writing
 
@@ -268,6 +269,7 @@ output: html_document
 - University of Michigan - Dearborn Honors Writing Award, 2nd Place. [2018.]{style="float.right"}  
   Title: *Interpretations of Suffering and Fate Through Biblical and Greek Tragedy*
 &nbsp;  
+&nbsp;  
 
 # Conference Attendance
 
@@ -278,5 +280,6 @@ output: html_document
 - Midwest Several Complex Variables Conference (Dearborn, MI) [2019.]{style="float:right"}
 - MathFest (Cincinatti, OH) [2019.]{style="float:right"}
 - Symposium on Big Data, Human Health and Statistics (Ann Arbor, MI) [2019.]{style="float:right"}
+&nbsp;  
 
-# Coursework
+<a href="jamescarzon.github.io/docs/CV_210621.pdf" target="_blank">Download a PDF version.</a>
