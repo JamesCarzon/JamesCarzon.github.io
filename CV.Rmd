@@ -1,6 +1,280 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
+
 output: html_document
 ---
 
-This is where I list my curriculum vitae items.
+# Education
+
+## Carnegie Mellon University [2021-Present.]{style="float:right"}
+
+**Ph.D.** in Statistics. (Pittsburgh, PA.)
+&nbsp;  
+&nbsp;  
+
+## University of Michigan, Dearborn [2017-2021.]{style="float:right"}
+
+| **B.Sc.** in Mathematics and **B.A.** in Philosophy. (Dearborn, MI.)
+| Certificates in Mathematics for Finance and Writing.
+| Cumulative GPA: 4.00.
+&nbsp;  
+
+# Professional Experience
+
+## REU Site in Mathematical Analysis and Applications [Summer 2020.]{style="float:right"}
+
+| University of Michigan, Dearborn. (Dearborn, MI.)
+| A **Research Experience for Undergraduates** program.
+| Project: *Classifying Toric 3-Fold Codes of Dimensions 4 and 5.*
+&nbsp;  
+
+## Big Data Summer Institute [Summer 2019.]{style="float:right"}
+
+| University of Michigan. (Ann Arbor, MI.)
+| A **Summer in Biostatistics** program.
+| Project: *Clasification of Drug Effectiveness using Bimodal Normal Mixture Models.*
+&nbsp;  
+
+## Lear Open Innovation Competition [Winter 2018.]{style="float:right"}
+
+| Lear Corporation. (Southfield, MI.)
+| An engineering research project competition.
+| Project: Superhuman Safety Seat *quick repositioning system.*
+&nbsp;  
+
+# Research Talks
+
+## Young Mathematicians Conference [August 2020.]{style="float:right"}
+
+| The Ohio State University. ([Virtual] Columbus, OH.)
+| Thirty-minute research talk.
+&nbsp;  
+
+## Summer Undergraduate Michigan Mathematics Research (SUMMR) Conference [July 2020.]{style="float:right"}
+
+| Michigan State University. ([Virtual] East Lansing, MI.)
+| Thirty-minute research talk.
+&nbsp;  
+
+## Symposium on Big Data, Human Health and Statistics [July 2019.]{style="float:right"}
+
+| University of Michigan. (Ann Arbor, MI.)
+| Poster presentation.
+&nbsp;  
+
+# Presentations
+
+## SURE Kickoff [18 May 2021.]{style="float:right"}
+
+| University of Michigan - Dearborn Summer Undergraduate Research Experience. ([Virtual] Dearborn, MI.)
+| I shared advice and information with a virtual crowd of around 60 student researchers and their faculty mentors.
+&nbsp;  
+
+## CASL Undergraduate Research panel [8 April 2021.]{style="float:right"}
+
+| College of Arts, Sciences and Letters. ([Virtual] Dearborn, MI.)
+| With five other current students and recent alumni, I answered questions and 
+  shared advice with an audience of around 100 current students interested in
+  pursuing research in college.
+&nbsp;  
+
+## Honors Information Session panel [2018-2020.]{style="float:right"}
+
+| University of Michigan - Dearborn Honors Program. (Dearborn, MI.)
+| With five or six other current students in the program, I answered questions 
+  of propsective students and shared my personal testimony and experiences as a
+  program participant. I attended and assisted in six panels as a current 
+  student, at each of which about 100 hundred students and guests attended.
+&nbsp;  
+
+## Honors Orientation presentation [2018-2020.]{style="float:right"}
+
+| University of Michigan - Dearborn Honors Program. (Dearborn, MI.)
+| I answered questions and described different aspects of the program to 
+  cohorts of about 80 new students in the form of a brief presentation. I 
+  attended three orientations as a current student.
+&nbsp;  
+
+## Writing Center class visit [28 February 2019.]{style="float:right"}
+
+| University of Michigan - Dearborn Writing Center (Dearborn, MI.)
+| With another Writing Center consultant, I gave a presentation to students in 
+  a business writing course on the services made available through the Writing 
+  Center.
+&nbsp;  
+
+# Publications
+
+## Academic Articles
+
+1. Braun, T., Carzon, J., Gorham, J., Jabbusch, K., *Classifying Toric 3-Fold Codes of Dimensions 4 and 5* ([preprint](https://arxiv.org/abs/2103.16763))
+&nbsp;  
+
+## Fiction
+
+1. "Entering a Transportation Hub," *University of Michigan - Dearborn Writing Awards,* Fall 2017.
+2. "Ugbert Ugberto the Utility Monster," *Lyceum Literary & Fine Arts Journal,* Fall 2020 (accepted).
+&nbsp;  
+
+# Projects
+
+## The Borsuk-Ulam Theorem and its Implications
+
+| A senior capstone project for MATH 492: Introduction to Topology.
+| Paper, 11 pages; course lecture.
+&nbsp;  
+
+## In Defense of Frege's Account of Numbers
+
+| A senior capstone project for PHIL 340: Analytic Philosophy.
+| Paper, 9 pages.
+&nbsp;  
+
+## MOOC Success Trends on edX
+
+| A senior capstone project for STAT 440: Design and Analysis of Experiments.
+| Paper, 21 pages; presentation.
+&nbsp;  
+
+## Dada, According to the Laws of Arp: An Analysis of a Chance Collage
+
+| An Honors capstone project for HONS 304: Western Culture IV: Modern Era.
+| Paper, 17 pages; course lecture.
+&nbsp;  
+
+## Codeswitching as a Racist Phenomenon in *BlacKkKlansman*
+
+| A research project for LING 383: American English.
+| Paper, 20 pages; presentation.
+&nbsp;  
+
+## Using Writing Center Data for Decision Making
+
+| A research project for COMP 475: Supporting Literacies.
+| Paper, 14 pages; presentation.
+&nbsp;  
+
+# Work
+
+## University of Michigan
+
+- Organizing Committee Member. *Undergraduate Research Symposium* [2021.]{style="float:right"}
+&nbsp;  
+
+## University of Michigan, Dearborn
+
+- Math Tutor. *Mathematics Learning Center* [2019-2021.]{style="float:right"}
+- Honors Student Executive Council Member. *Honors Program* [2018-2020.]{style="float:right"}
+- Contributor. *The Michigan Journal* [2018.]{style="float:right"}
+- Writing Tutor. *Writing Center* [2018-2019.]{style="float:right"}
+- Calculus II Mentor. *Department of Mathematics and Statistics* [2017-2018.]{style="float:right"}
+&nbsp;  
+
+# Service
+
+## Math Club junior colloquium [2020-2021.]{style="float:right"}
+
+| I organized a guest speaker series with the intention of helping to expose 
+  organization members to possible research topics and careers and programs in
+  the mathematical sciences and allied fields such as geographical information 
+  systems and biostatistics.
+&nbsp;  
+
+## Math Club student video presentations [2020-2021.]{style="float:right"}
+
+| During my role as President of the Math Club, a peer and I started a series 
+  of video presentations on recreational topics to share with the wider 
+  community of math students which became a popular way to keep students 
+  engaged in department activities while studying remotely.
+&nbsp;  
+
+## Math Club problem solving workshop [2019-2021.]{style="float:right"}
+
+| As a supplement to coursework for students participating in regional and 
+  national mathematics competitions in our department, I designed a problem 
+  solving workshop as part of the math club's programming. This involved 
+  writing session notes and presenting solutions to challenging problems to 
+  fit recurring competition themes during the workshop sessions.
+&nbsp;  
+
+## Honors Program mentoring [2018-2021.]{style="float:right"}
+
+| In my capacity as a leader outside of the classroom for the Honors Program, 
+  I organized a student mentoring program for incoming freshmen and recruited 
+  upperclassmen to serve. I've spoken at orientation and informational events 
+  in front of audiences of over one hundred people on numerous occasions.
+&nbsp;  
+
+## Writing Center data analytics [2018-2019.]{style="float:right"}
+
+| To serve as a practical component to the certificate in writing, I used 
+  classification and multiple regression techniques to optimize tutor 
+  schedules to match expertise to patterns in students' needs. This project 
+  involved data collected for each appointment at the U of M - Dearborn 
+  Writing Center from the last ten years.
+&nbsp;  
+
+## Data Science Association founding [2018-2019.]{style="float:right"}
+
+| I was a founding member of the Data Science Association student 
+  organization, through which I helped to facilitate competitions and give 
+  presentations on new topics in the field such as biostatistics and machine 
+  learning algorithms.
+&nbsp;  
+
+# Awards
+
+## Academic
+
+- Chancellor's Medallion, College of Arts, Sciences and Letters. [2021.]{style="float:right"}  
+  This award is given to two graduating students each spring and fall term 
+  to recognize "outstanding quality of character, vitality, intellect, 
+  integrity and academic record."
+- James B. Angell Scholar, Eight Terms. [2017-2021.]{style="float:right"}  
+  This award is conferred to students with no grades lower than an A- in a 
+  given term.
+- Lear Open Innovation Challenge Peer Award. [2018.]{style="float:right"}  
+  This freshman GPA award is conferred to students in the top five percent of 
+  their class with 14+ credits.
+- William J. Branstrom Freshman Prize. [2017.]{style="float:right"}  
+  This award was part of the Lear Corporation Open Innovation engineering 
+  competiton.
+- Chancellor's Scholarship Award. [2017.]{style="float:right"}  
+  This full tuition freshman scholarship is awarded for academic merit.
+
+## Mathematics
+
+- University of Michigan - Dearborn Mathematics Honors Scholar. [2021.]{style="float.right"}
+- Carl Rasmussen Award for Excellence in Mathematics. [2020.]{style="float.right"}
+- Mathematics competitions:
+  - 2020 Wiiliam Lowell Putnam Mathematical Competition, 10 Points.
+  - 2020 Michigan Autumn Takehome Challenge, 1st Place.
+  - 2020 Lower Michigan Math Competition, 1st Place.
+  - 2019 William Lowell Putnam Mathematical Competition, 13 Points.
+  - 2019 Michigan Autumn Takehome Challenge, 4th Place.
+  - 2019 Lower Michigan Math Competition, 3rd Place.
+  - 2018 Wiiliam Lowell Putnam Mathematical Competition, 10 Points.
+
+## Writing
+
+- University of Michigan - Dearborn Scientific Writing Award, 3rd Place. [2019.]{style="float.right"}  
+  Title: *Using Writing Center Data for Decision Making*
+- University of Michigan - Dearborn Creative Nonfiction Writing Award, 3rd Place. [2019.]{style="float.right"}  
+  Title: *Putnam Up: A Small University's Fight Against a Giant Exam*
+- University of Michigan - Dearborn Bill Linn Fiction Prize, 1st Place. [2018.]{style="float.right"}  
+  Title: *Entering a Transportation Hub*
+- University of Michigan - Dearborn Honors Writing Award, 2nd Place. [2018.]{style="float.right"}  
+  Title: *Interpretations of Suffering and Fate Through Biblical and Greek Tragedy*
+&nbsp;  
+
+# Conference Attendance
+
+- University of Michigan Undergraduate Research Symposium ([Virtual] Ann Arbor, MI) [2021.]{style="float:right"}
+- Young Mathematicians Conference ([Virtual] Columbus, Ohio) [2020.]{style="float:right"}
+- Summer Undergraduate Michigan Mathematics Research (SUMMR) Conference ([Virtual] East Lansing, MI) [2020.]{style="float:right"}
+- Joint Mathematics Meeting (Denver, CO) [2020.]{style="float:right"}
+- Midwest Several Complex Variables Conference (Dearborn, MI) [2019.]{style="float:right"}
+- MathFest (Cincinatti, OH) [2019.]{style="float:right"}
+- Symposium on Big Data, Human Health and Statistics (Ann Arbor, MI) [2019.]{style="float:right"}
+
+# Coursework
