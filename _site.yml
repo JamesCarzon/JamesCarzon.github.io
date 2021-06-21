@@ -1,4 +1,5 @@
 name: "James Carzon"
+output_dir: "docs"
 navbar:
   title: "James Carzon"
   left:
@@ -8,4 +9,9 @@ navbar:
       href: Journal.html
     - text: "Links"
       href: Links.html
-output_dir: "docs"
+    - text: "Blog"
+      href: https://jamescarzon.github.io/my_blog/
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
