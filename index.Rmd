@@ -3,20 +3,24 @@ title: "Home"
 output: html_document
 ---
 
-:::: {style="display: flex;"}
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
 
 ::: {}
-```{r, echo=FALSE, out.width="100%"}
-knitr::include_graphics("docs/img/Headshot.jpg")
+```{r, echo=FALSE, out.width="75%"}
+knitr::include_graphics("img/headshot.jpg")
 ```
 :::
 
 ::: {}
-This is my home page. **Currently under construction**
+# James Carzon
+
+#### Doctoral student
+#### Department of Statistics and Data Science
+#### Carnegie Mellon University
 :::
 
 ::::
 
-```{r, echo=FALSE, out.width="100%"}
-knitr::include_graphics("docs/img/Backsplash.jpg")
+```{r, echo=FALSE, out.width="100%", out.height="60%"}
+knitr::include_graphics("img/backsplash.jpg")
 ```
