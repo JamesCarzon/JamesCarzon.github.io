@@ -6,7 +6,7 @@ output: html_document
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
 
 ::: {}
-![](img/headshot.jpg)
+![](https://JamesCarzon.github.io/JamesCarzon.github.io/img/headshot.jpg)
 :::
 
 ::: {}
