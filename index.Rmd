@@ -7,7 +7,7 @@ output: html_document
 
 ::: {}
 ```{r, echo=FALSE, out.width="75%"}
-knitr::include_graphics("img/headshot.jpg")
+knitr::include_graphics("docs/img/headshot.jpg")
 ```
 :::
 
@@ -44,7 +44,7 @@ This is an example of a non-academic thing that I do.
 Text here.
 
 ```{r, echo=FALSE, out.width="100%", out.height="60%", fig.cap="They told me to stop dealing threats to Uber drivers, but I don't have any other use for the stop sign I nicked from my old primary school.", }
-knitr::include_graphics("img/backsplash.jpg")
+knitr::include_graphics("docs/img/backsplash.jpg")
 ```
 
 ## About my writing
