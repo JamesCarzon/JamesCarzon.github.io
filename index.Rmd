@@ -23,7 +23,9 @@ knitr::include_graphics("img/headshot.jpg")
 
 ## About me
 
-Text here.
+I'm a first year doctoral student in the statistics Ph.D. program at Carnegie 
+Mellon University. I'm interested in studying the history of statistics and the 
+statistical methods used in physical and natural sciences.
 
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
 
@@ -41,7 +43,7 @@ This is an example of a non-academic thing that I do.
 
 Text here.
 
-```{r, echo=FALSE, out.width="100%", out.height="60%"}
+```{r, echo=FALSE, out.width="100%", out.height="60%", fig.cap="They told me to stop dealing threats to Uber drivers, but I don't have any other use for the stop sign I nicked from my old primary school.", }
 knitr::include_graphics("img/backsplash.jpg")
 ```
 
