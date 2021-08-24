@@ -6,11 +6,7 @@ output: html_document
 :::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
 
 ::: {}
-
-
-```{r, echo=FALSE, out.width="75%"}
-knitr::include_graphics("https://JamesCarzon.github.io/img/headshot.jpg")
-```
+![](img/headshot.jpg)
 :::
 
 ::: {}
