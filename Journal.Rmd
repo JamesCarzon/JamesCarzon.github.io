@@ -10,14 +10,7 @@ output:
     #code_folding: hide
 ---
 
-This is my research journal sort of thing.
+This is my research journal.
 
-# Section 1
+# 18 August 2021
 
-Text here.
-
-## Subsection 1.1.
-
-Text here.
-
-# Section 2

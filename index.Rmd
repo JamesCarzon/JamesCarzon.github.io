@@ -3,4 +3,20 @@ title: "Home"
 output: html_document
 ---
 
-This is my home page. *Currently under construction!*
+:::: {style="display: flex;"}
+
+::: {}
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_graphics("docs/img/Headshot.jpg")
+```
+:::
+
+::: {}
+This is my home page. **Currently under construction**
+:::
+
+::::
+
+```{r, echo=FALSE, out.width="100%"}
+knitr::include_graphics("docs/img/Backsplash.jpg")
+```
