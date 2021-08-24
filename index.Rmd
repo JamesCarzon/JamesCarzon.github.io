@@ -21,6 +21,30 @@ knitr::include_graphics("img/headshot.jpg")
 
 ::::
 
+## About me
+
+Text here.
+
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
+
+::: {}
+This is an example of a non-academic thing that I do.
+:::
+
+::: {}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqOXnC_k8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::
+
+::::
+
+## About my website
+
+Text here.
+
 ```{r, echo=FALSE, out.width="100%", out.height="60%"}
 knitr::include_graphics("img/backsplash.jpg")
 ```
+
+## About my writing
+
+Text here.
