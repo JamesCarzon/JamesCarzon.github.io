@@ -10,7 +10,33 @@ output:
     #code_folding: hide
 ---
 
-This is my research journal.
+# 2021
 
-# 18 August 2021
+## 24 August 2021
 
+I am setting about writing content for my personal website for a few reasons. 
+First, this is an exercise of tools in which I may need to become more 
+fluent. For example, I have not often used GitHub in undergrad, and so now I am 
+using it a fair amount for setting up my site. I am also a little bit rusty in 
+R, so now I am refreshing my memory of the language.
+
+Second, I want to have a long term location for consistent writing. I am happy 
+to write blog posts on the occasion that I find a topic which fits the purview 
+of the blog, but I also found keeping a research-and-work journal helpful when 
+working on projects so that I can remember the big ideas that I would otherwise 
+forget while studying very small ideas. With the commencement of my graduate 
+studies - and more projects on which to work than ever - this journal shall be 
+my blessing and curse.
+
+As should be clear enough, this "Journal" serves a different purpose than does 
+my blog. This is not the place for me to document each original idea I have. 
+Instead, I will record checkpoints in the projects on which I work. 
+This includes the start or finish of a project and possibly publications and 
+presentations. I will also record my motivations and the changes or 
+developments to them.
+
+For my GitHub Pages site, I have been writing all of my pages in RMarkdown with 
+RStudio. [This page](https://garrettgman.github.io/rmarkdown/rmarkdown_websites.html#overview) 
+I found online (by Garrett Grolemund, I think) has been a useful resource. I 
+have also benefitted from some videos by Matthew Crump on his YouTube channel, 
+"Programming For Psychologists."
