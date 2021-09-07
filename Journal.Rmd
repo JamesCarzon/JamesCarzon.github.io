@@ -40,3 +40,71 @@ RStudio. [This page](https://garrettgman.github.io/rmarkdown/rmarkdown_websites.
 I found online (by Garrett Grolemund, I think) has been a useful resource. I 
 have also benefitted from some videos by Matthew Crump on his YouTube channel, 
 "Programming For Psychologists."
+
+## 7 September 2021
+
+I have realized over this past week that I have begun a Git workflow for the 
+record of this website project that is somewhat different from that being 
+employed for my statistical computing course. This means, for example, that I 
+have a GitHub Desktop app that I am not using as often as I thought I would be 
+when I opened my GitHub account over the summer.
+
+Right now, I am deciding to attend meetings for three reading groups this 
+semester. These are in the subjects of causal inference, statistics pedagogy, 
+and statistics for the physical sciences. I chose these groups in part because 
+I think that they are largely independent in content, but also I have some 
+interest in these topics, of course. I am not well read in any of the major 
+domains of science in which statisticians tend to play - cosmology, environment, 
+partical physics, neuroscience - but the themes of "high-dimensional statistics" 
+and "uncertainty quantification" are common and have a rather concrete 
+interpretation in the real world. For this reason, I think that I may find 
+plenty of work to do that demands the exercise of engaging with unfamiliar 
+domain knowledge, complicated methods, and careful reporting that is the 
+triumvirate of skills that I need to build right now.
+
+As for causal inference, this seems to me like a research niche that is 
+inherently philosophical and difficult to interpret. Part of my interest in 
+participating in this group is to understand what it actually is that a 
+statistician is able to do to make a causal inference. It very well may form a 
+pillar in my research program.
+
+As for the pedagogy group, I am contemplating how lightly I should allow the 
+projects that are discussed therein to guide my research goals. On the one 
+hand, I may learn about experimental design among other things. However, the 
+primary focus of the work conducted in this group is on how statistics is 
+taught as a subject and is written as a technical genre. This interests me and 
+I would like to follow the particular projects that were introduced to me 
+during last week's meeting, but I will let this be my "third group" in the list 
+of three in the sense that it shall be treated as a useful hobby and not a 
+pillar in my research program.
+
+Besides reading groups and their particular activities, I am reading some 
+literature on my own, both classic papers and new preprints on the 
+[arxiv](https://arxiv.org/archive/stat). I found a few through a 
+[list](https://www.nature.com/news/the-top-100-papers-1.16224) by Nature of the 
+most cited research of all time. Christian Robert had a 
+[poll](https://xianblog.wordpress.com/2010/06/25/top-15-all-timers/) on his 
+blog back in 2010 asking for picks on the "most classic papers" in statistics. 
+Andrew Gelman wrote a 
+[response](https://statmodeling.stat.columbia.edu/2010/06/25/classics_of_sta/) 
+on the _Statistical Modeling, Causal Inference, and Social Science_ blog, 
+considering some exclusions. I have downloaded a copy of every mentioned work 
+and entered it into Mendeley for reading and notetaking.
+
+Two classics that I have read are the following. "Inference and Missing Data" 
+by Donald Rubin treats of the issue of missing data. Earlier works which depend 
+on missing data assumed that the process which made the missing data values 
+missing in the first place is random. Rubin specifies the weakest general 
+conditions required to ignore the process causing missing data. "Improper 
+Priors, Spline Smoothing and the Problem of Guarding Against Model Errors in 
+Regression" by Grace Wahba shows that the method of spline smoothing is 
+equivalent to Bayesian estimation with a partially improper prior. As Wahba 
+summarizes, spline smoothing is a (the ?) natural solution to the problem of 
+having several regression functions which may not contain among them the true 
+model.
+
+I could see myself finding classic papers such as these to report on for 
+my blog. They are fairly dense reading, but the most important results are 
+normally those which have broad applications (since so many researchers have 
+reason to cite them). This could be a really good way to become well read in 
+the literature over time or to ensure that I stop posting soon and forever.
