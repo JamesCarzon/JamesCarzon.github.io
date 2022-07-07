@@ -13,7 +13,8 @@
 
 <title>Home</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
@@ -56,6 +57,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="style.css" type="text/css" />
 
 
@@ -80,6 +82,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -232,7 +237,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -274,43 +279,49 @@ $(document).ready(function () {
 
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; ">
-<p><a href="https://jamescarzon.github.io/img/headshot.jpg" class="uri">https://jamescarzon.github.io/img/headshot.jpg</a></p>
-<div>
-<p><img src="headshot.jpg" /></p>
+<div id="james-carzon" class="section level2">
+<h2>James Carzon</h2>
+<div id="doctoral-student" class="section level4">
+<h4>Doctoral student</h4>
+</div>
+<div id="department-of-statistics-and-data-science" class="section level4">
+<h4>Department of Statistics and Data Science</h4>
+</div>
+<div id="carnegie-mellon-university" class="section level4">
+<h4>Carnegie Mellon University</h4>
+<p>I entered the statistics Ph.D. program at Carnegie Mellon University in 2021. I’m currently working on my Advanced Data Analysis project, an applied project as part of the program; the object is to quantify uncertainty in the solution to a non-linear, ill-posed inverse problem where the forward model is a climate simulation and the quantities whose inference is our interest are unknown physical parameters. My mentors are Mikael Kuusela (Statistics and Data Science) and Hamish Gordon (Chemical Engineering).</p>
+</div>
 </div>
 <div>
-<h1 id="james-carzon">James Carzon</h1>
-<h4 id="doctoral-student">Doctoral student</h4>
-<h4 id="department-of-statistics-and-data-science">Department of Statistics and Data Science</h4>
-<h4 id="carnegie-mellon-university">Carnegie Mellon University</h4>
+<div class="figure">
+<img src="img/headshot.jpg" style="width:60.0%" alt="" />
+<p class="caption">Me, several years ago, colorized.</p>
+</div>
 </div>
 </div>
 <div id="about-me" class="section level2">
 <h2>About me</h2>
-<p>I’m a first year doctoral student in the statistics Ph.D. program at Carnegie Mellon University. I’m interested in studying the history of statistics and the statistical methods used in physical and natural sciences.</p>
 <div style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; ">
-<div>
-<p>This is an example of a non-academic thing that I do.</p>
-</div>
 <div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pqOXnC_k8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
+</div>
+<div>
+<p>This is an example of a non-academic thing that I do.</p>
 </div>
 </div>
 </div>
 <div id="about-my-website" class="section level2">
 <h2>About my website</h2>
-<p>Text here.</p>
+<p>On this site, I present my resum'{e}, broadly construed, including academic and recreational trivia. I also blog on various topics, academic ones beyond the above link and non-academic ones at <a href="https://nothalfgood.wordpress.com/" class="uri">https://nothalfgood.wordpress.com/</a>.</p>
+<p>This website behaves as an example of what a person can achieve from the comfort of RStudio, but I am still only incrementally improving my website. It is not rude to let me know if the site is not accessible or otherwise presents itself in an unsitely manner. [I assume that] you can borrow template content from my website for your own use by consulting my Github repo; I, in turn, followed the useful guidance on the <a href="https://crumplab.com/LabJournalWebsite/index.html">Crump Lab’s website</a>.</p>
 <div class="figure">
-<img src="img/backsplash.jpg" alt="They told me to stop dealing threats to Uber drivers, but I don't have any other use for the stop sign I nicked from my old primary school." width="100%" height="60%" />
-<p class="caption">
-They told me to stop dealing threats to Uber drivers, but I don’t have any other use for the stop sign I nicked from my old primary school.
-</p>
+<img src="img/backsplash.jpg" alt="" />
+<p class="caption">They told me to stop dealing threats to Uber drivers, but I don’t have any other use for the stop sign I nicked from my old primary school.</p>
 </div>
 </div>
 <div id="about-my-writing" class="section level2">
 <h2>About my writing</h2>
-<p>Text here.</p>
 </div>
 
 
