@@ -27,7 +27,7 @@ Science) and Hamish Gordon (Chemical Engineering).
 
 ::: {}
 
-![Me, several years ago, colorized.](assets/headshot.jpg){width=60%}
+![Me, several years ago, colorized.](images/headshot.jpg){width=60%}
 :::
 
 ::::
@@ -59,7 +59,7 @@ itself in an unsitely manner. [I assume that] you can borrow template content
 from my website for your own use by consulting my Github repo; I, in turn, 
 followed the useful guidance on the [Crump Lab's website](https://crumplab.com/LabJournalWebsite/index.html).
 
-![They told me to stop dealing threats to Uber drivers, but I don't have any other use for the stop sign I nicked from my old primary school.](assets/backsplash.jpg)
+![They told me to stop dealing threats to Uber drivers, but I don't have any other use for the stop sign I nicked from my old primary school.](images/backsplash.jpg)
 
 ## About my writing
 
