@@ -1,15 +1,13 @@
 ---
-title: "Home"
+title: "James Carzon's home page"
 output: html_document
 ---
 
 \vspace{1cm}
 
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
+:::: {style="display: grid; grid-template-columns: 3fr 1fr; grid-column-gap: 25px; "}
 
 ::: {}
-
-## James Carzon
 
 I'm James, a PhD student in the _Department of Statistics and Data Science_ at **Carnegie Mellon University**.
 At CMU, I am a member of the [_STAtistical Methods for the Physical Sciences_](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) (STAMPS) Research Center.
@@ -23,12 +21,20 @@ Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the 
 
 ::: {}
 
-![](images/headshot_2025.jpg){width=60%}
+![](images/headshot_2025.jpg){width=100%}
 :::
 
 ::::
 
-::::
+## Contact
+
+<p>
+  <a href="mailto:jcarzon@andrew.cmu.edu">Email</a> |
+  GitHub (<a href="https://github.com/JamesCarzon">personal</a> / 
+  <a href="https://github.com/lee-group-cmu">group</a>) |
+  <a href="https://www.linkedin.com/in/james-carzon-759894158/">LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?user=tqjNLO0AAAAJ&hl=en">Google Scholar</a>
+</p>
 
 ## About this site
 
