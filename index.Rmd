@@ -11,55 +11,25 @@ output: html_document
 
 ## James Carzon
 
-#### Doctoral student
-#### Department of Statistics and Data Science
-#### Carnegie Mellon University
+I'm James, a PhD student in the _Department of Statistics and Data Science_ at **Carnegie Mellon University**.
+At CMU, I am a member of the [_STAtistical Methods for the Physical Sciences_](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) (STAMPS) Research Center.
+I am fortunate to be advised by [Ann B. Lee](https://www.stat.cmu.edu/~annlee/).
 
-I entered the statistics Ph.D. program at Carnegie Mellon University in 2021. 
-I'm currently working on my Advanced Data Analysis project, an applied project 
-as part of the program; the object is to quantify uncertainty in the solution 
-to a non-linear, ill-posed inverse problem where the forward model is a climate 
-simulation and the quantities whose inference is our interest are unknown 
-physical parameters. My mentors are Mikael Kuusela (Statistics and Data 
-Science) and Hamish Gordon (Chemical Engineering).
+I work on likelihood-free inference (LFI) methodology motivated by the physical sciences, including astrophysics, high energy physics, and environmental science. Many scientific problems can be posed as a task of recovering the hidden parameters of a forward-evaluable process (e.g., an observational experiment, a simulator). My research focuses on recovering parameters while providing guarantees needed for scientific inference to be both trustworthy **and** practical, often with the help of modern machine learning.
+
+Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the University of Michigan -- Dearborn.
 
 :::
 
 ::: {}
 
-![Me, several years ago, colorized.](images/headshot.jpg){width=60%}
+![](images/headshot_2025.jpg){width=60%}
 :::
 
 ::::
 
-## About me
-
-:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 10px; "}
-
-::: {}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pqOXnC_k8q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-:::
-
-::: {}
-This is an example of a non-academic thing that I do.
-:::
-
 ::::
 
-## About my website
+## About this site
 
-On this site, I present my resum\'{e}, broadly construed, including academic 
-and recreational trivia. I also blog on various topics, academic ones beyond 
-the above link and non-academic ones at https://nothalfgood.wordpress.com/.
-
-This website behaves as an example of what a person can achieve from the 
-comfort of RStudio, but I am still only incrementally improving my website. It 
-is not rude to let me know if the site is not accessible or otherwise presents 
-itself in an unsitely manner. [I assume that] you can borrow template content 
-from my website for your own use by consulting my Github repo; I, in turn, 
-followed the useful guidance on the [Crump Lab's website](https://crumplab.com/LabJournalWebsite/index.html).
-
-![They told me to stop dealing threats to Uber drivers, but I don't have any other use for the stop sign I nicked from my old primary school.](images/backsplash.jpg)
-
-## About my writing
-
+This website was created with reference to the useful on the [Crump Lab website](https://crumplab.com/LabJournalWebsite/index.html).
