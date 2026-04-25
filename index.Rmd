@@ -1,6 +1,12 @@
 ---
 title: "James Carzon's home page"
-output: html_document
+output:
+    html_document:
+        theme: cosmo
+        highlight: textmate
+        css: style.css
+        includes:
+            after_body: footer.html
 ---
 
 :::: {.intro-grid style="display: grid; grid-template-columns: 3fr 1fr; grid-column-gap: 25px;"}
@@ -11,9 +17,7 @@ I'm James, a PhD student in the _Department of Statistics and Data Science_ at *
 At CMU, I am a member of the [_STAtistical Methods for the Physical Sciences_](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) (STAMPS) Research Center.
 I am fortunate to be advised by [Ann B. Lee](https://www.stat.cmu.edu/~annlee/).
 
-I work on likelihood-free inference (LFI) methodology motivated by the physical sciences, including astrophysics, high energy physics, and environmental science. Many scientific problems can be posed as a task of recovering the hidden parameters of a forward-evaluable process (e.g., an observational experiment, a simulator). My research focuses on recovering parameters while providing guarantees needed for scientific inference to be both trustworthy **and** practical, often with the help of modern machine learning.
-
-Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the University of Michigan -- Dearborn.
+I work on likelihood-free inference (LFI) methodology motivated by the physical sciences, including astrophysics, high energy physics, and environmental science. Many scientific problems can be posed as a task of recovering the hidden parameters of a forward-evaluable process (e.g., an observational experiment, a simulator). My research focuses on recovering parameters while providing guarantees needed for scientific inference to be both trustworthy **and** practical, often with the help of modern machine learning. Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the University of Michigan -- Dearborn.
 
 :::
 
@@ -23,17 +27,3 @@ Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the 
 :::
 
 ::::
-
-## Contact
-
-<p>
-  <a href="mailto:jcarzon@andrew.cmu.edu">Email</a> |
-  GitHub (<a href="https://github.com/JamesCarzon">personal</a> / 
-  <a href="https://github.com/lee-group-cmu">group</a>) |
-  <a href="https://www.linkedin.com/in/james-carzon-759894158/">LinkedIn</a> |
-  <a href="https://scholar.google.com/citations?user=tqjNLO0AAAAJ&hl=en">Google Scholar</a>
-</p>
-
-## About this site
-
-This website was created with reference to the useful on the [Crump Lab website](https://crumplab.com/LabJournalWebsite/index.html).
