@@ -3,9 +3,7 @@ title: "James Carzon's home page"
 output: html_document
 ---
 
-\vspace{1cm}
-
-:::: {style="display: grid; grid-template-columns: 3fr 1fr; grid-column-gap: 25px; "}
+:::: {.intro-grid style="display: grid; grid-template-columns: 3fr 1fr; grid-column-gap: 25px;"}
 
 ::: {}
 
