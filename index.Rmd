@@ -1,5 +1,5 @@
 ---
-title: "James Carzon's home page"
+title: "James Carzon"
 output:
     html_document:
         theme: cosmo
@@ -13,11 +13,13 @@ output:
 
 ::: {}
 
-I'm James, a PhD student in the _Department of Statistics and Data Science_ at **Carnegie Mellon University**.
+I am a PhD student in the _Department of Statistics and Data Science_ at **Carnegie Mellon University**.
 At CMU, I am a member of the [_STAtistical Methods for the Physical Sciences_](https://www.cmu.edu/dietrich/statistics-datascience/stamps/) (STAMPS) Research Center.
 I am fortunate to be advised by [Ann B. Lee](https://www.stat.cmu.edu/~annlee/).
 
-I work on likelihood-free inference (LFI) methodology motivated by the physical sciences, including astrophysics, high energy physics, and environmental science. Many scientific problems can be posed as a task of recovering the hidden parameters of a forward-evaluable process (e.g., an observational experiment, a simulator). My research focuses on recovering parameters while providing guarantees needed for scientific inference to be both trustworthy **and** practical, often with the help of modern machine learning. Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the University of Michigan -- Dearborn.
+I work on likelihood-free inference (LFI) methodology motivated by the physical sciences, including astrophysics, high energy physics, and environmental science. Many scientific problems can be posed as a task of recovering the hidden parameters of a forward-evaluable process (e.g., an observational experiment, a simulator). My research focuses on recovering parameters while providing guarantees needed for scientific inference to be both trustworthy **and** practical, often with the help of modern machine learning.
+
+Before joining CMU, I obtained my BS in mathematics and BA in philosophy at the University of Michigan -- Dearborn.
 
 :::
 
